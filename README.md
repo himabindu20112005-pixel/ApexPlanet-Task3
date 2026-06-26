@@ -27,6 +27,11 @@ This project was completed as part of the ApexPlanet Web Development Internship.
 * API Integration
 * Dynamic Web Development
 
+## Live Demo
+
+ https://himabindu20112005-pixel.github.io/ApexPlanet-Task3/
+
+ 
 ## 🚀 Author
 
 **N Himabindu**
